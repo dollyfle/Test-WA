@@ -1,0 +1,69 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "maps/Carte1.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 263,
+                "y": 309.5
+            }
+        },
+        "maps/map.json": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 518.6666666666666,
+                "y": 435.3333333333333
+            }
+        },
+        "maps/map.json#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "maps/map.json#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "maps/map.json#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "maps/map.json#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "maps/map.json#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "maps/map.json#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "maps/map.json#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "maps/map.json#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "maps/map.json#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "maps/map.json#WA_User_Interface": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/Test-WA/maps",
+    "last.imagePath": "C:/Users/ramella_d/Documents/Sous-marin/Univers-L/GitHub/EspacedesLangues/tilesets",
+    "map.lastUsedExportFilter": "Fichiers de carte JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "Test-WA.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "maps/map.json"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
